@@ -9,7 +9,7 @@ and their descendants into colonial warfare. During the first French-Chickasaw w
 over one hundred and fifty armed Africans and their descendents fighting alongside the French. A few years later during the second
 French-Chickasaw war of 1739, no major battle occurred. However, Africans and their descendents labored in war convoys up and down
 the Mississippi River, from New Orleans to present-day Memphis, Tennessee. They were instrumental in every step of the French effort,
-from building the boats that would carry the artillery upriver to rowing the boats upstream to providing care for soldiers and other Africans based at the forts built for the war. 
+from building the boats that would carry the artillery upriver to rowing the boats upstream to providing care for each other and anyone else stationed at the forts built for the war. 
 
 **Africans and their descendents remain missing from accounts of the French-Chickasaw wars.** 
 
