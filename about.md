@@ -17,35 +17,6 @@ This site is a first step in recovering their stories and situating them in thes
 that included people from over fifteen Native nations, from France and other parts of Europe, and a variety of African nations. 
 
 #### Current Literature on the French-Chickasaw Wars
-* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [link](https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9) 
-
-
-## Sample Ed editions.
-
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [link](https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9)
+* Richard Green, _Chickasaw Lives Volume One: Explorations in Tribal History_ (Chickasaw Press, 2007). [link](https://chickasawpress.com/Books/Chickasaw-Lives-Volume-One-Explorations-in-Tribal.aspx#credits)
+* Ann M. Early, "The Greatest Gathering: The Second French-Chickasaw War in the Mississippi Valley and the Potential for Archaeology," in Kenneth G. Kelly and Meredith D. Hardy, _French Colonial Archaeology in the Southeast and Caribbean_ (Gainesville: University of Florida Press, 2011), 81-96.
