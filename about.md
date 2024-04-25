@@ -17,6 +17,6 @@ This site is a first step in recovering their stories and situating them in thes
 that included people from over fifteen Native nations, from France and other parts of Europe, and a variety of African nations. 
 
 #### Current Literature on the French-Chickasaw Wars
-* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [link](https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9)
-* Richard Green, _Chickasaw Lives Volume One: Explorations in Tribal History_ (Chickasaw Press, 2007). [link](https://chickasawpress.com/Books/Chickasaw-Lives-Volume-One-Explorations-in-Tribal.aspx#credits)
-* Ann M. Early, "The Greatest Gathering: The Second French-Chickasaw War in the Mississippi Valley and the Potential for Archaeology," in Kenneth G. Kelly and Meredith D. Hardy, _French Colonial Archaeology in the Southeast and Caribbean_ (Gainesville: University of Florida Press, 2011), 81-96.
+* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [article link](https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9)
+* Richard Green, _Chickasaw Lives Volume One: Explorations in Tribal History_ (Chickasaw Press, 2007). [book link](https://chickasawpress.com/Books/Chickasaw-Lives-Volume-One-Explorations-in-Tribal.aspx#credits)
+* Ann M. Early, "The Greatest Gathering: The Second French-Chickasaw War in the Mississippi Valley and the Potential for Archaeology," in Kenneth G. Kelly and Meredith D. Hardy, _French Colonial Archaeology in the Southeast and Caribbean_ (Gainesville: University of Florida Press, 2011), 81-96. [book link](https://upf.com/book.asp?id=KELLY002) 
