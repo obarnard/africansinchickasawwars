@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-### The French-Chickasaw Wars of 1736 & 1739
+## The French-Chickasaw Wars of 1736 & 1739
 
 Two major military campaigns organized by the French against the Chickasaw nation during the 1730s forced hundreds of Africans 
 and their descendants into colonial warfare. During the first French-Chickasaw war of 1736, the French colonial army included
@@ -16,8 +16,8 @@ from building the boats that would carry the artillery upriver to rowing the boa
 This site is a first step in recovering their stories and situating them in these major 18th century military campaigns 
 that included people from over fifteen Native nations, from France and other parts of Europe, and a variety of African nations. 
 
-## Current Literature on the French-Chickasaw Wars
-* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [link] (https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9) 
+#### Current Literature on the French-Chickasaw Wars
+* Elizabeth N. Ellis, "Imperial Blunders and the Revival of Interdependency at Midcentury," in _The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South_, (Philadelphia: University of Pennsylvania Press, 2003), 172-195. [link](https://www-jstor-org.proxy1.library.jhu.edu/stable/j.ctv2g7v1p5.9) 
 
 
 ## Sample Ed editions.
