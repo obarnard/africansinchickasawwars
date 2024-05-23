@@ -13,7 +13,7 @@ from building the boats that would carry the artillery upriver to rowing the boa
 
 **Africans and their descendents remain missing from accounts of the French-Chickasaw wars.** 
 
-This site is a first step in recovering their stories and situating them in these major 18th century military campaigns 
+This site is a first step in recovering the names and stories of people and families involved in these wars and situating them in these major 18th century military campaigns 
 that included people from over fifteen Native nations, from France and other parts of Europe, and a variety of African nations. 
 
 #### Current Literature on the French-Chickasaw Wars
